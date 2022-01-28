@@ -31,7 +31,7 @@ if($_SESSION['status_login']!=true){
 		  		<h1><a href="index.html" class="logo">SPP APP</a></h1>
 	        <ul class="list-unstyled components mb-5">
 	          <li class="active">
-	            <a href="../Siswa/index.php"><span class="fa fa-home mr-3"></span> Rumah</a>
+	            <a href="../Siswa/index.php"><span class="fa fa-home mr-3"></span> Dashboard</a>
 	          </li>
 				<li>
 					<a href="../Siswa/histori_pembayaran.php"><span class="fa fa-sticky-note mr-3"></span> Histori Transaksi</a>

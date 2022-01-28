@@ -31,7 +31,7 @@ if($_SESSION['status_login']!=true){
 		  		<h1><a href="index.html" class="logo">SPP APP</a></h1>
 	        <ul class="list-unstyled components mb-5">
 	          <li class="active">
-	            <a href="../Petugas/index.php"><span class="fa fa-home mr-3"></span> Rumah</a>
+	            <a href="../Petugas/index.php"><span class="fa fa-home mr-3"></span> Dashboard</a>
 	          </li>
 			  <li>
 	              <a href="../Petugas/tampil_siswa.php"><span class="fa fa-user mr-3"></span> Siswa</a>
